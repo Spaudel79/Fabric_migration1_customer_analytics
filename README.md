@@ -1,1 +1,1 @@
-The details of the project will be added soon..
+This project involves the migration of Databricks artifacts to Microsoft Fabric environment through the MCP servers.
